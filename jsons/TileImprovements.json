@@ -25,7 +25,7 @@
 		"production": 4,
 		"uniques": ["Great Improvement", "[+1 Production] <after discovering [Chemistry]>", "Removes removable features when built", 
     "Pillaging this improvement yields approximately [+20 Gold]","Tile provides yield without assigned population", 
-    "[+1 Production] for each adjacent [Mine]", [+1 Production] for each adjacent [Quarry]", "[+2 Production] for each adjacent [Strategic resource]",
+    "[+1 Production] for each adjacent [Mine]", "[+1 Production] for each adjacent [Quarry]", "[+2 Production] for each adjacent [Strategic resource]",
 ]
 	},
 	{
