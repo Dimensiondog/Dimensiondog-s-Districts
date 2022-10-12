@@ -1,0 +1,63 @@
+[
+{
+		"name": "Academy",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"science": 4,
+		"uniques": ["Great Improvement", "[+2 Science] <after discovering [Scientific Theory]>", "[+2 Science] <after discovering [Atomic Theory]>",
+ "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]","Tile provides yield without assigned population",
+"[+1 Science] for each adjacent [Mountain]",
+
+
+]
+	},
+	{
+		"name": "Landmark",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"culture": 4,
+		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]",
+"Tile provides yield without assigned population",
+"[+4 Culture] for each adjacent [Natural Wonder]",
+]
+	},
+	{
+		"name": "Manufactory",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"production": 4,
+		"uniques": ["Great Improvement", "[+1 Production] <after discovering [Chemistry]>", "Removes removable features when built", 
+    "Pillaging this improvement yields approximately [+20 Gold]","Tile provides yield without assigned population", 
+    "[+1 Production] for each adjacent [Mine]", [+1 Production] for each adjacent [Quarry]", "[+2 Production] for each adjacent [Strategic resource]",
+]
+	},
+	{
+		"name": "Customs house",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"gold": 4,
+		"uniques": ["Great Improvement", "[+1 Gold] <after discovering [Economics]>", 
+"Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]",
+"Tile provides yield without assigned population", [+1 Gold] for each adjacent [River]", [+1 Gold] for each adjacent [Coast]", 
+"[+1 Gold] for each adjacent [Luxury resource]",
+
+]
+	},
+	{
+		"name": "Holy site",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"faith": 4,
+		"uniques": ["Great Improvement", "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]",
+"Tile provides yield without assigned population",
+, "[+2 Faith] for each adjacent [Mountain]",
+,"[+1 Faith] for each adjacent [Forest]"]
+	},
+	{
+		"name": "Citadel",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"uniques": [
+			"Great Improvement",
+			"Gives a defensive bonus of [100]%",
+			"Adjacent enemy units ending their turn take [30] damage",
+			"Can be built just outside your borders",
+        	"Constructing it will take over the tiles around it and assign them to your closest city",
+			"Removes removable features when built",
+		]
+	},
+  ]
