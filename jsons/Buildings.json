@@ -1,0 +1,80 @@
+[
+{
+		"name": "Holy site",
+		"cost": 54,
+		"maintenance": 1,
+		"requiredTech": "Calendar"
+		"uniques": [
+"Creates a [Holy site] improvement on a specific tile",
+"Unsellable",
+"Cannot be purchased",
+"Cost increases by [50] per owned city"
+"Never destroyed when city is captured",
+],
+	},
+  {
+		"name": "Academy",
+		"cost": 54,
+		"maintenance": 1,
+		"requiredTech": "Philosophy"
+		"uniques": [
+"Creates a [Academy] improvement on a specific tile",
+"Unsellable",
+"Cannot be purchased",
+"Cost increases by [50] per owned city"
+"Never destroyed when city is captured",
+],
+	},
+  {
+		"name": "Manufactory",
+		"cost": 54,
+		"maintenance": 1,
+		"requiredTech": "Construction"
+		"uniques": [
+"Creates a [Manufactory] improvement on a specific tile",
+"Unsellable",
+"Cannot be purchased",
+"Cost increases by [50] per owned city"
+"Never destroyed when city is captured",
+],
+	},
+  {
+		"name": "Customs house",
+		"cost": 54,
+		"maintenance": 1,
+		"requiredTech": "Horseback Riding"
+		"uniques": [
+"Creates a [Customs house] improvement on a specific tile",
+"Unsellable",
+"Cannot be purchased",
+"Cost increases by [50] per owned city"
+"Never destroyed when city is captured",
+],
+	},
+  {
+		"name": "Landmark",
+		"cost": 54,
+		"maintenance": 1,
+		"requiredTech": "Drama and Poetry"
+		"uniques": [
+"Creates a [Landmark] improvement on a specific tile",
+"Unsellable",
+"Cannot be purchased",
+"Cost increases by [50] per owned city"
+"Never destroyed when city is captured",
+],
+	},
+  {
+		"name": "Citadel",
+		"cost": 54,
+		"maintenance": 1,
+		"requiredTech": "Iron Working"
+		"uniques": [
+"Creates a [Citadel] improvement on a specific tile",
+"Unsellable",
+"Cannot be purchased",
+"Cost increases by [50] per owned city"
+"Never destroyed when city is captured",
+],
+	},
+  ]
